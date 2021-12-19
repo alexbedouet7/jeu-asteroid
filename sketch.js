@@ -186,7 +186,7 @@ lazer.rotation=angle;
  lazer.lifetime=100;
  lazer.setCollider("rectangle",0,0,100,60);
 grouplazer.add(lazer);
-
+ 
   }
     
 }
